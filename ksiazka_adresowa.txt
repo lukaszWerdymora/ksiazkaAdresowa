@@ -1,0 +1,24 @@
+1
+lukasz
+falenty
+987465132
+gniezno
+sjjsj@wer
+2
+kuba
+falenty
+987465132
+warszawice 12
+fala@wer
+3
+lukasz
+kopec
+98745613
+warszawa 23
+kakka#aaa
+4
+Lukasz
+Jaworski
+465
+Wawel
+wawer@adres
